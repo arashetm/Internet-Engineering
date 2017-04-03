@@ -1,0 +1,18 @@
+#t1{
+    width: 100px;
+    height: 20px;
+}
+.bclass{
+    font-family: "B Nazanin";
+}
+#txt1{
+    position: absolute;
+    font-family: "B Nazanin";
+    padding-left: 26%;
+}
+#info_text{
+  
+    font-family: "B Nazanin";
+    font-size: 150%;
+    padding-left: 45%;
+}
